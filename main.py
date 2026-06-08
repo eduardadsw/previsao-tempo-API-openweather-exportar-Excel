@@ -2,7 +2,7 @@ import requests
 from urllib.parse import quote
 import pandas as pd
 
-API_KEY = "97eee0b8b0ade5e9ae34270031b4dcbe"
+API_KEY = "insira sua chave da API, criada no Open Weather gratuitamente"
 cidade = str(input('Insira a cidade: '))
 
 cidade_tratada = quote(cidade)
