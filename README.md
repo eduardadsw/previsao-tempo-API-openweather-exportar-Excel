@@ -18,3 +18,5 @@ Pandas (Para manipulação e estruturação de tabelas)
 OpenPyXL (Engine para criação de arquivos `.xlsx`)
 Urllib (Biblioteca padrão do Python para tratamento de URLs)
 
+Como utilizar:
+Baixar e executar o arquivo main.py utilizando sua chave da API gerado gratuitamente no site: https://home.openweathermap.org/
